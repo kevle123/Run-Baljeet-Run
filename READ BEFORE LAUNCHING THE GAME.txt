@@ -1,0 +1,1 @@
+Please ensure that you have the latest version of "Java(TM) SE Development Kit (64-bit)" AND "Java 8 Update" before opening the "Run Baljeet Run!.jar" application.
